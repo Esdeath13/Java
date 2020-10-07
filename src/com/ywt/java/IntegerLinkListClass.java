@@ -1,13 +1,6 @@
 package com.ywt.java;
 
-/**
- * @author Finger
- * @file IntegerLinkListClass.java
- * @CopyRight (C) https://spianmo.com
- * @brief
- * @email Finger@spianmo.com
- * @date 2020/10/01
- */
+
 public class IntegerLinkListClass<Integer> extends LinkListClass<Integer> {
 
     private java.lang.Integer max;
